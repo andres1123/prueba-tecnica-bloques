@@ -1,5 +1,5 @@
 # Prueba-Tecnica-Bloques
-DFunción que determina si se puede formar o no una palabra en base a unos bloques de refrencia de caracteres.
+Función que determina si se puede formar o no una palabra en base a unos bloques de refrencia de caracteres.
 ## Clases del proyecto
 La clase desde donde se ejecuta la aplicación  es la clase : Bloques
 La clase que contiene toda la logica del aplicativo es: BloquesLetras
